@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecordVideo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_record">刻录</string>
+    <string name="str_stop">停止</string>
+</resources>
